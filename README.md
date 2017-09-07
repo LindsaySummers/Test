@@ -2,7 +2,8 @@
 **  **
 __  __
 _ _
-* *
+*  *
+_  _
 # **:sparkles: LINDSAY SUMMERS :sparkles:** 
 >words  
 >words  
