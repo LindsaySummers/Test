@@ -31,4 +31,8 @@ equals
   
 ***
   
-  
+![mappicture]
+![everywhere]
+
+[mappicture]: http://www.holestories.com/wp-content/uploads/2017/08/Lindsays-Work-Map-2.png
+[everywhere]: http://www.holestories.com/wp-content/uploads/2017/08/Me-Everywhere-GIF.gif
